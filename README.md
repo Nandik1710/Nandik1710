@@ -1,7 +1,7 @@
 # Hi, I'm Nandik Dawar 👋  
 
 🎓 B.Tech CSE (Hons.) – Full Stack Development  
-💻 Full Stack Developer | 🧪 Software Testing Enthusiast | 🤖 AI-Driven Solutions  
+💻 Full Stack Developer | 🧪 Software Testing Enthusiast | 
 📍 India  
 
 ---
@@ -16,7 +16,7 @@ I am particularly interested in:
 - Full Stack Web Development  
 - Test Automation & QA Engineering  
 - Scalable Backend Systems  
-- AI-powered Applications  
+
 
 ---
 
@@ -47,7 +47,7 @@ I am particularly interested in:
 ### 🧪 Software Testing Intern  
 **Harman Connected Services**  
 - Built an **automation testing framework** using **Selenium + PyTest**  
-- Converted **22+ manual test cases** into automated test scripts  
+- Converted **50+ manual test cases** into automated test scripts  
 - Designed a **scalable test architecture** using Page Object Model (POM)  
 
 ---
@@ -57,21 +57,21 @@ I am particularly interested in:
 ### 🚗 CarRental — MERN Stack Web App  
 A full-featured car rental platform with authentication, booking, and admin management.  
 **Tech:** MongoDB, Express.js, React, Node.js  
-🔗 [View Repository](https://github.com/YOUR-USERNAME/car-rental)
+🔗 [View Repository](https://github.com/Nandik1710/car-rental)
 
 ---
 
 ### 🧠 Mental Wellness Web App  
 A wellness platform offering guided exercises, journaling, and AI chatbot support.  
 **Tech:** HTML, CSS, JavaScript  
-🔗 [View Repository](https://github.com/YOUR-USERNAME/mental-wellness-app)
+🔗 [View Repository](https://github.com/Nandik1710/mental-wellness-app)
 
 ---
 
 ### 🚍 Transportation Data Collection System  
 A data-driven platform replacing manual surveys with centralized travel data collection.  
 **Tech:** React Native, Node.js, Express, Firebase  
-🔗 [View Repository](https://github.com/YOUR-USERNAME/transport-data-app)
+🔗 [View Repository](https://github.com/Nandik1710/transport-data-app)
 
 ---
 
@@ -92,8 +92,8 @@ A data-driven platform replacing manual surveys with centralized travel data col
 ## 📫 Connect With Me
 
 📧 Email: nandik1710@gmail.com  
-💼 LinkedIn: (Add your link here)  
-💻 GitHub: https://github.com/YOUR-USERNAME  
+💼 LinkedIn: https://www.linkedin.com/in/nandikdawar/ 
+💻 GitHub: https://github.com/Nandik1710
 
 ---
 

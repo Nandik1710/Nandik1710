@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Nandik 👋
 
-<!--
-**Nandik1710/Nandik1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student | 💻 Full Stack Developer | 🤖 AI/ML Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- HTML, CSS, JavaScript, React
+- Python, C
+- MySQL
+- Git & GitHub
+
+---
+
+## 📌 Projects
+
+### 🔹 Portfolio Website
+Personal portfolio built using HTML, CSS, JS  
+🔗 [View Project](https://github.com/YOUR-USERNAME/portfolio-site)
+
+### 🔹 Hospital Management System
+Database project using MySQL  
+🔗 [View Project](https://github.com/YOUR-USERNAME/hospital-management)
+
+### 🔹 AI Chatbot for Mental Wellness
+ML-based chatbot with dataset training  
+🔗 [View Project](https://github.com/YOUR-USERNAME/mental-health-chatbot)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/YOUR-USERNAME
+- LinkedIn: (add later)

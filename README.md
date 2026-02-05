@@ -57,7 +57,7 @@ I am particularly interested in:
 ### 🚗 CarRental — MERN Stack Web App  
 A full-featured car rental platform with authentication, booking, and admin management.  
 **Tech:** MongoDB, Express.js, React, Node.js  
-🔗 [View Repository](https://github.com/Nandik1710/car-rental)
+🔗 [View Repository](https://github.com/Nandik1710/Car_Rental_WebApp.git)
 
 ---
 
@@ -71,7 +71,7 @@ A wellness platform offering guided exercises, journaling, and AI chatbot suppor
 ### 🚍 Transportation Data Collection System  
 A data-driven platform replacing manual surveys with centralized travel data collection.  
 **Tech:** React Native, Node.js, Express, Firebase  
-🔗 [View Repository](https://github.com/Nandik1710/transport-data-app)
+🔗 [View Repository](https://github.com/Nandik1710/Transportation_Data_Collection_MobileApp.git)
 
 ---
 

@@ -93,7 +93,6 @@ A data-driven platform replacing manual surveys with centralized travel data col
 
 📧 Email: nandik1710@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/nandikdawar
-
 💻 GitHub: https://github.com/Nandik1710
 
 ---

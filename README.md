@@ -64,7 +64,7 @@ A full-featured car rental platform with authentication, booking, and admin mana
 ### 🧠 Mental Wellness Web App  
 A wellness platform offering guided exercises, journaling, and AI chatbot support.  
 **Tech:** HTML, CSS, JavaScript  
-🔗 [View Repository](https://github.com/Nandik1710/mental-wellness-app)
+🔗 [View Repository](https://github.com/Nandik1710/Mental_Wellness_Platform.git)
 
 ---
 

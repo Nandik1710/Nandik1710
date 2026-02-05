@@ -1,33 +1,100 @@
-# Hi, I'm Nandik 👋
+# Hi, I'm Nandik Dawar 👋  
 
-🎓 BTech Student | 💻 Full Stack Developer | 🤖 AI/ML Enthusiast  
-
----
-
-## 🚀 Tech Stack
-- HTML, CSS, JavaScript, React
-- Python, C
-- MySQL
-- Git & GitHub
+🎓 B.Tech CSE (Hons.) – Full Stack Development  
+💻 Full Stack Developer | 🧪 Software Testing Enthusiast | 🤖 AI-Driven Solutions  
+📍 India  
 
 ---
 
-## 📌 Projects
+## 🚀 About Me
 
-### 🔹 Portfolio Website
-Personal portfolio built using HTML, CSS, JS  
-🔗 [View Project](https://github.com/YOUR-USERNAME/portfolio-site)
+I am a Computer Science undergraduate specializing in **Full Stack Development** with hands-on experience building scalable web applications and designing automated testing frameworks.  
 
-### 🔹 Hospital Management System
-Database project using MySQL  
-🔗 [View Project](https://github.com/YOUR-USERNAME/hospital-management)
+I enjoy working across the stack — from crafting responsive frontends to developing secure backend APIs and ensuring quality through automation testing.
 
-### 🔹 AI Chatbot for Mental Wellness
-ML-based chatbot with dataset training  
-🔗 [View Project](https://github.com/YOUR-USERNAME/mental-health-chatbot)
+I am particularly interested in:
+- Full Stack Web Development  
+- Test Automation & QA Engineering  
+- Scalable Backend Systems  
+- AI-powered Applications  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+`JavaScript` | `Python` | `C` | `Java` | `HTML` | `CSS`
+
+**Frontend**  
+`React.js` | `React Native`
+
+**Backend**  
+`Node.js` | `Express.js` | REST APIs | JWT Authentication
+
+**Testing & QA**  
+`Selenium` | `PyTest` | Page Object Model (POM) | Automated Test Frameworks
+
+**Databases**  
+`MongoDB` | `MySQL` | Firebase
+
+**Tools & Platforms**  
+`Git` | `GitHub` | `Postman` | `VS Code`
+
+---
+
+## 💼 Experience
+
+### 🧪 Software Testing Intern  
+**Harman Connected Services**  
+- Built an **automation testing framework** using **Selenium + PyTest**  
+- Converted **22+ manual test cases** into automated test scripts  
+- Designed a **scalable test architecture** using Page Object Model (POM)  
+
+---
+
+## 📌 Featured Projects
+
+### 🚗 CarRental — MERN Stack Web App  
+A full-featured car rental platform with authentication, booking, and admin management.  
+**Tech:** MongoDB, Express.js, React, Node.js  
+🔗 [View Repository](https://github.com/YOUR-USERNAME/car-rental)
+
+---
+
+### 🧠 Mental Wellness Web App  
+A wellness platform offering guided exercises, journaling, and AI chatbot support.  
+**Tech:** HTML, CSS, JavaScript  
+🔗 [View Repository](https://github.com/YOUR-USERNAME/mental-wellness-app)
+
+---
+
+### 🚍 Transportation Data Collection System  
+A data-driven platform replacing manual surveys with centralized travel data collection.  
+**Tech:** React Native, Node.js, Express, Firebase  
+🔗 [View Repository](https://github.com/YOUR-USERNAME/transport-data-app)
+
+---
+
+## 🧠 Core Computer Science
+
+`Data Structures` | `DBMS` | `OOPS` | `Software Engineering` | `Operating Systems` | `Computer Networks`
+
+---
+
+## 🏆 Achievements
+
+🏆 Winner — Code Hustle Hackathon  
+🏆 Winner — SPE Hackathon  
+🤖 International Robotics Competition Qualifier  
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/YOUR-USERNAME
-- LinkedIn: (add later)
+
+📧 Email: nandik1710@gmail.com  
+💼 LinkedIn: (Add your link here)  
+💻 GitHub: https://github.com/YOUR-USERNAME  
+
+---
+
+⭐ *Always open to opportunities in Full Stack Development and Software Testing roles*
